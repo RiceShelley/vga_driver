@@ -1,0 +1,8 @@
+INTSTYLE=pa
+INFILE=/home/rootie/devel/vga_driver/work/planAhead/vga_driver/vga_driver.runs/impl_1/mojo_top_0_routed.ncd
+OUTFILE=/home/rootie/devel/vga_driver/work/planAhead/vga_driver/vga_driver.runs/impl_1/mojo_top_0.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=/home/rootie/devel/vga_driver/work/planAhead/vga_driver/vga_driver.runs/impl_1
+LICENSE=WebPack
+USER_INFO=211582974_0_0_878
